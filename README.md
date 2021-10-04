@@ -1,2 +1,2 @@
-# Java-Treinando
- Atividades propostas durante o curso técnico para aprendizagem.
+# Java-treinando
+ Atividades em Java desenvolvidas durante o técnico para aprendizagem da linguagem
